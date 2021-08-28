@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/hkrai-tech/ToDo-FrontEnd.git/static/css/main.deedab83.chunk.css",
+    "main.js": "/hkrai-tech/ToDo-FrontEnd.git/static/js/main.f2e3091a.chunk.js",
+    "main.js.map": "/hkrai-tech/ToDo-FrontEnd.git/static/js/main.f2e3091a.chunk.js.map",
+    "runtime-main.js": "/hkrai-tech/ToDo-FrontEnd.git/static/js/runtime-main.be6955d7.js",
+    "runtime-main.js.map": "/hkrai-tech/ToDo-FrontEnd.git/static/js/runtime-main.be6955d7.js.map",
+    "static/js/2.7046a917.chunk.js": "/hkrai-tech/ToDo-FrontEnd.git/static/js/2.7046a917.chunk.js",
+    "static/js/2.7046a917.chunk.js.map": "/hkrai-tech/ToDo-FrontEnd.git/static/js/2.7046a917.chunk.js.map",
+    "index.html": "/hkrai-tech/ToDo-FrontEnd.git/index.html",
+    "static/css/main.deedab83.chunk.css.map": "/hkrai-tech/ToDo-FrontEnd.git/static/css/main.deedab83.chunk.css.map",
+    "static/js/2.7046a917.chunk.js.LICENSE.txt": "/hkrai-tech/ToDo-FrontEnd.git/static/js/2.7046a917.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be6955d7.js",
+    "static/js/2.7046a917.chunk.js",
+    "static/css/main.deedab83.chunk.css",
+    "static/js/main.f2e3091a.chunk.js"
+  ]
+}
